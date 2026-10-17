@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "5a61a75c4ec49f8e891713d4",
+  "owner": "qujuvbnxk",
+  "repo": "page-7b259ee21086fb629a8ed2ec",
+  "title": "蜜桃(XiXicats)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7b259ee21086fb629a8ed2ec",
+      "a": "蜜桃(XiXicats)",
+      "b": "",
+      "entity": "蜜桃(XiXicats)",
+      "brand": "蜜桃(XiXicats)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "be7cfbe7f825ef0a74848b6760f9141ff1571487fb00d61147f44bfe1c2ef686",
+      "content": {
+        "keyword1": "蜜桃(XiXicats)",
+        "keyword2": "",
+        "primary_entity": "蜜桃(XiXicats)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "蜜桃(XiXicats)。短句说完：档位、额度、设备上限、使用顺序。没有空话。表里对价格，栏里对问题。",
+          "AI_DESCRIPTION": "蜜桃(XiXicats)。短句说完：档位、额度、设备上限、使用顺序。没有空话。表里对价格，栏里对问题。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml{}\nbody{background:#070807;color:#e7eedc;font-family:Georgia,\"Songti SC\",\"Noto Serif SC\",serif;line-height:1.55;font-size:17px}\na{color:#c8ff3a;text-decoration:none}\na:hover{text-decoration:underline}\nmain{max-width:1180px;margin:0 auto;padding:28px 18px 80px}\n.hero{display:grid;grid-template-columns:1.35fr 0.85fr 0.9fr;grid-template-areas:\"mast kicker quote\" \"mast lead lead\" \"rule rule rule\";gap:18px 28px;align-items:end;padding:12px 0 36px;border-bottom:1px solid #1c2410}\n.mast{grid-area:mast}\n.kicker{grid-area:kicker;align-self:start}\n.quote{grid-area:quote;align-self:start}\n.lead{grid-area:lead}\n.rule{grid-area:rule}\n.issue{font-family:\"Helvetica Neue\",Arial,sans-serif;font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:#c8ff3a}\nh1{font-size:clamp(56px,11vw,128px);line-height:.82;font-weight:700;letter-spacing:-.04em;color:#f4ffe0}\nh1 small{display:block;font-size:clamp(16px,2.2vw,22px);letter-spacing:.28em;margin-top:14px;font-family:\"Helvetica Neue\",Arial,sans-serif;font-weight:500;color:#c8ff3a}\n.anchors{display:flex;flex-wrap:wrap;gap:8px 10px;margin-top:22px}\n.anchors a{font-family:\"Helvetica Neue\",Arial,sans-serif;font-size:12px;letter-spacing:.08em;border:1px solid #c8ff3a;color:#c8ff3a;padding:6px 10px;border-radius:999px;text-decoration:none}\n.anchors a:hover{background:#c8ff3a;color:#070807;text-decoration:none}\n.pull{font-size:22px;line-height:1.35;color:#c8ff3a;border-left:3px solid #c8ff3a;padding:4px 0 4px 14px}\n.lead p{font-size:18px;max-width:42em}\n.lead p+p{margin-top:10px}\n.meta-col{font-family:\"Helvetica Neue\",Arial,sans-serif;font-size:13px;color:#9aa58a}\n.meta-col b{display:block;color:#f4ffe0;font-size:14px;margin-bottom:8px}\nsection{padding:56px 0 8px}\nh2{font-size:clamp(28px,4vw,40px);line-height:1.15;margin-bottom:18px;color:#f4ffe0}\nh3{font-size:20px;margin:0 0 8px;color:#c8ff3a}\n.deck{font-family:\"Helvetica Neue\",Arial,sans-serif;font-size:14px;color:#9aa58a;margin-bottom:28px;max-width:40em}\n.notes{display:grid;grid-template-columns:1.2fr .8fr;gap:22px}\n.card{background:#10140c;border-radius:28px;box-shadow:0 18px 40px rgba(0,0,0,.45),0 8px 18px rgba(200,255,58,.05);padding:26px 24px}\n.card p{margin-top:8px;color:#d5ddc6}\n.steps{display:grid;grid-template-columns:1fr 1fr;gap:18px}\n.step-no{font-family:\"Helvetica Neue\",Arial,sans-serif;font-size:42px;color:#c8ff3a;line-height:1;margin-bottom:8px}\n.table-wrap{overflow-x:auto;border-radius:28px;box-shadow:0 18px 40px rgba(0,0,0,.45),0 8px 18px rgba(200,255,58,.05);background:#10140c}\ntable{width:100%;border-collapse:collapse;min-width:720px;font-family:\"Helvetica Neue\",Arial,sans-serif;font-size:14px}\nth,td{padding:16px 18px;text-align:left;vertical-align:top;border-bottom:1px solid #1c2410}\nthead th{color:#9aa58a;font-weight:500;font-size:12px;letter-spacing:.12em;text-transform:uppercase}\nthead th.feat{color:#070807;background:#c8ff3a}\ntbody th{color:#f4ffe0;font-weight:600;width:22%}\ntd.feat{background:rgba(200,255,58,.08)}\n.price{font-size:22px;color:#c8ff3a;display:block}\n.sub{color:#9aa58a;font-size:12px;margin-top:4px}\n.mark{display:inline-block;background:#c8ff3a;color:#070807;font-size:11px;letter-spacing:.08em;padding:3px 8px;border-radius:999px;margin-left:8px;font-weight:700}\nul.plain{list-style:none}\nul.plain li{padding:5px 0 5px 14px;position:relative}\nul.plain li:before{content:\"\";position:absolute;left:0;top:12px;width:6px;height:6px;background:#c8ff3a;border-radius:50%}\n.clients{display:grid;grid-template-columns:repeat(2,1fr);gap:18px}\n.faq{display:grid;grid-template-columns:1fr 1fr;gap:18px}\n.qa{padding:22px 22px 20px}\n.qa p{margin-top:6px;color:#d5ddc6}\n.foot{margin-top:64px;padding-top:22px;border-top:1px solid #1c2410;font-family:\"Helvetica Neue\",Arial,sans-serif;font-size:12px;color:#6e7764;display:grid;grid-template-columns:1fr 1fr;gap:12px}\n@media(max-width:860px){\n.hero{grid-template-columns:1fr;grid-template-areas:\"kicker\" \"mast\" \"quote\" \"lead\" \"rule\";gap:16px}\n.notes,.steps,.clients,.faq,.foot{grid-template-columns:1fr}\nh1{font-size:64px}\nsection{padding:40px 0 4px}\n}\n</style><main>\n<header class=\"hero\">\n<div class=\"mast\">\n<p class=\"issue\">Vol. 1610 · 墨底荧绿</p>\n<h1>蜜桃(XiXicats) · 蜜桃<small>XiXicats</small></h1>\n<nav class=\"anchors\">\n<a href=\"#intro\">卷首</a>\n<a href=\"#plans\">档位</a>\n<a href=\"#guide\">用法</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">问答</a>\n</nav>\n</div>\n<div class=\"kicker\">\n<p class=\"meta-col\"><b>本期只排四栏</b>档位对照。步骤按序。客户端不给未核链。问题左右对开。</p>\n</div>\n<blockquote class=\"quote pull\">名字甜。句子短。把价格、额度、席位摊在同一张桌上。</blockquote>\n<div class=\"lead\">\n<p>蜜桃(XiXicats)是一份会员档页。先读表，再决定开哪一档。</p>\n<p>额度按自然月计。设备有上限。功能写在对应列。没有的项，这一页不补。</p>\n</div>\n<div class=\"rule\"></div>\n</header>\n\n<section id=\"intro\">\n<h2>卷首</h2>\n<p class=\"deck\">先分清三件事：你买的是档位，不是形容词。你用的是额度，不是口号。你装的是客户端，链接以核验为准。</p>\n<div class=\"notes\">\n<article class=\"card\">\n<h3>这一页做什么</h3>\n<p>对照三档价格。列出月付与年付。写清额度与席位。给出开通后的四步顺序。常见疑问左右分栏。</p>\n</article>\n<article class=\"card\">\n<h3>这一页不做什么</h3>\n<p>不写未核实的来历。不报未给出的指标。不放未确认的安装包。不把空列填成承诺。</p>\n</article>\n</div>\n</section>\n\n<section id=\"plans\">\n<h2>三档对照</h2>\n<p class=\"deck\">横看价格。竖看权益。旗舰列涂了底。年付是同一档的另一种结算，不是第四档。</p>\n<div class=\"table-wrap\">\n<table>\n<thead>\n<tr>\n<th>项目</th>\n<th>基础版</th>\n<th class=\"feat\">旗舰版 <span class=\"mark\">主推</span></th>\n<th>团队版</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>月付</th>\n<td><span class=\"price\">¥15/月</span></td>\n<td class=\"feat\"><span class=\"price\">¥35/月</span></td>\n<td><span class=\"price\">¥85/月</span></td>\n</tr>\n<tr>\n<th>年付</th>\n<td>¥150/年<span class=\"sub\">按年一次结清</span></td>\n<td class=\"feat\">¥350/年<span class=\"sub\">按年一次结清</span></td>\n<td>¥850/年<span class=\"sub\">按年一次结清</span></td>\n</tr>\n<tr>\n<th>月额度</th>\n<td>100GB</td>\n<td class=\"feat\">300GB</td>\n<td>1000GB</td>\n</tr>\n<tr>\n<th>同时在线</th>\n<td>3 台设备</td>\n<td class=\"feat\">5 台设备</td>\n<td>20 台设备</td>\n</tr>\n<tr>\n<th>档内权益</th>\n<td>\n<ul class=\"plain\">\n<li>入门功能集</li>\n<li>标准公告同步</li>\n<li>常规工单窗口</li>\n</ul>\n</td>\n<td class=\"feat\">\n<ul class=\"plain\">\n<li>完整功能集</li>\n<li>工单优先排队</li>\n<li>适合作为主力档</li>\n</ul>\n</td>\n<td>\n<ul class=\"plain\">\n<li>席位集中管理</li>\n<li>分组与对接人</li>\n<li>按团队节奏加项</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>\n\n<section id=\"guide\">\n<h2>用法四步</h2>\n<p class=\"deck\">按序做。不要跳步。额度用完即停，等下个计费周期，或改档。</p>\n<div class=\"steps\">\n<article class=\"card\">\n<div class=\"step-no\">01</div>\n<h3>选定一档</h3>\n<p>先看设备数。再看月额度。团队才看席位。选定后不要混用名称。</p>\n</article>\n<article class=\"card\">\n<div class=\"step-no\">02</div>\n<h3>完成开通</h3>\n<p>按你常用的结算方式付对应价。月与年不要同一周期叠开。开通回执留着。</p>\n</article>\n<article class=\"card\">\n<div class=\"step-no\">03</div>\n<h3>登录同一账户</h3>\n<p>每台设备用同一会员身份。超出席位会挤掉最先上线的那台。先减设备，再开新的。</p>\n</article>\n<article class=\"card\">\n<div class=\"step-no\">04</div>\n<h3>按额度使用</h3>\n<p>当月额度用尽就暂停。改档在下一周期生效。不要假设未写出的补偿。</p>\n</article>\n</div>\n</section>\n\n<section id=\"clients\">\n<h2>客户端</h2>\n<p class=\"deck\">本页不托管安装包。没有已核实的下载地址。链接一律留空跳转。以你信任的发布渠道为准。</p>\n<div class=\"clients\">\n<article class=\"card\">\n<h3>桌面</h3>\n<p>Windows 与 macOS 用各自渠道获取。版本号以你装到的为准。地址未核验：<a href=\"#\">#</a></p>\n</article>\n<article class=\"card\">\n<h3>移动</h3>\n<p>iOS 与 Android 不在此页分发。商店名、签名、校验由你本地完成。地址未核验：<a href=\"#\">#</a></p>\n</article>\n<article class=\"card\">\n<h3>其他入口</h3>\n<p>路由或命令行若你自行配置，责任在本机。本页不提供脚本、配置文件或远程包。</p>\n</article>\n<article class=\"card\">\n<h3>对账方式</h3>\n<p>装好后只做一件事：用开通账户登录。对不上档位，先核回执，再问工单。</p>\n</article>\n</div>\n</section>\n\n<section id=\"faq\">\n<h2>问与答</h2>\n<p class=\"deck\">左栏讲档位与额度。右栏讲设备与客户端。一句问，一段答。</p>\n<div class=\"faq\">\n<article class=\"card qa\">\n<h3>基础版和旗舰版差在哪？</h3>\n<p>额度：100GB 对 300GB。席位：3 台对 5 台。旗舰含完整功能集和优先工单。价格按列，不混算。</p>\n</article>\n<article class=\"card qa\">\n<h3>年付是折扣档吗？</h3>\n<p>不是新档。是同一档改成按年结算。基础 ¥150，旗舰 ¥350，团队 ¥850。中途改档规则以开通时说明为准，本页不另写退改条款。</p>\n</article>\n<article class=\"card qa\">\n<h3>额度会滚入下月吗？</h3>\n<p>按自然月计。本页不承诺结转。用完即止。需要更大容量，选更高一档，而不是把两档叠在一个月里。</p>\n</article>\n<article class=\"card qa\">\n<h3>设备满了怎么办？</h3>\n<p>先让一台下线。再上新的。团队版上限 20。不要把席位理解成“无限登录”。</p>\n</article>\n<article class=\"card qa\">\n<h3>为什么这里没有安装按钮？</h3>\n<p>没有已确认的下载地址。伪造链接比不放更糟。去你能核验签名的地方取客户端，再回到账户登录。</p>\n</article>\n<article class=\"card qa\">\n<h3>团队版谁来对接？</h3>\n<p>档内含对口联络人。具体人名、工时、渠道，以开通后的书面说明为准。本页不编造职位与响应时限。</p>\n</article>\n</div>\n</section>\n\n<footer class=\"foot\">\n<p>蜜桃(XiXicats) · 静态说明页 · 价格与席位以表内三列为准</p>\n<p>未列出的身份、指标、评价、日志与退款，本页不写。</p>\n</footer>\n</main>",
+          "hash": "3fd1f080293593b49eaaa4608e2a47132227eedecd5c7666c8a59692685f968d",
+          "seo": {
+            "title": "蜜桃(XiXicats) — 黑底上的会员档与用法",
+            "keywords": "蜜桃,XiXicats,会员档,额度,设备席位,使用说明,客户端,常见问题",
+            "description": "蜜桃(XiXicats)。短句说完：档位、额度、设备上限、使用顺序。没有空话。表里对价格，栏里对问题。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "1610",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ycxtyjz.cn",
+    "host": "p-3262016aa0.ycxtyjz.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "f76933e4ec4b935fcf5f66596973705c3d38b207d4a252421871bbdfba315263",
+    "sitemap.xml": "70416b053adc6efb2b7b769a91da34e2ddd03af2c1a4769be8d28fc31e928c4d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "799c1678de79fb49ff7651469faf0eec4754533fbeade5f51f157e68e3d59200",
+    "robots.txt": "ec4f3fe5ce1fd16bed8907e3c64a375c92e0db92cac70d61fed7ec27e11b036f",
+    "11d8697176d54facc2504b604469977c.txt": "851a0e036ac79a1d0d56f74a4007766dcb265d1203e8bdfd050069c22d97bd00"
+  },
+  "revision": "7b5231337e0ca68016ebfc71aa9e73dbb2f7bc42684163ba9395f7adbcffbd23"
+}
